@@ -5,7 +5,7 @@ gantt
     title 工作分解結構
     dateFormat  YYYY-MM-DD
     section 任務1
-    研擬任務           : a1,2023-10-01, 1d
+    研擬任務           : a1,2023-09-25, 1d
     section 任務2
     任務分配           :a2, after a1  , 4d    
     section 任務3
