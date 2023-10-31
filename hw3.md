@@ -64,3 +64,10 @@
 
 ### Figma動態模擬畫面
 ![WMS](WMS.png "Figma")
+
+### 系統環境圖（DFD）
+![DFD1](DFD1.png "DFD1")
+
+### DFD 圖０
+![DFD](DFD.png "DFD")
+
