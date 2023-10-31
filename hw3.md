@@ -62,4 +62,4 @@
 ---
 
 ### Figma動態模擬畫面
-![WMS PDA](WMS PDA.png "Figma")
+![WMS](WMS.png "Figma")
